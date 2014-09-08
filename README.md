@@ -1,0 +1,2 @@
+Sitio web destinado a la venta de cubos rubik y accesorios sobre este tema, esta pagina es diseñada para la materia de comercio electornico (optativa) de la carrera de Informática de la FESC-4 UNAM. Desarrollada por :
+- Jorge A. Hernández Dionicio	t: @jorgerubik
